@@ -1,0 +1,95 @@
+h1 {
+
+    text-align: center;
+    color: gold;
+    text-shadow: 0cqi;
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    height: 50px;
+    margin-top: 0cqmax;
+
+   }
+
+  
+
+   
+
+   body {
+    background-color: honeydew;
+    background-image: url(marvin-meyer-SYTO3xs06fU-unsplash.jpg);
+    width: 100%;
+   height: 30vh;
+   }
+
+   
+
+   img {
+
+    display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 60%;
+   height: fit-content;
+
+   }
+
+   h2 {
+
+    text-align: center;
+    color: darkblue;
+    text-shadow: 0cqi;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 0cqmax;
+
+   }
+
+   h3 {
+    text-align: justify;
+    color: firebrick;
+    text-shadow: 0cqi;
+    margin-top: 0cqmax;
+    font-family: sans-serif;
+   }
+
+   p {
+    color: rgba(0, 0, 0, 0.697);
+    text-align: justify;
+    height: 20px;
+
+   }
+
+   .container-1 {
+
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 217, 0, 0.703);
+
+}
+
+.left-content {
+    background-color: rgba(255, 217, 0, 0.563);
+    text-align: left;
+}
+
+.right-content {
+    background-color: rgba(255, 217, 0, 0.589);
+    
+}
+
+.left-content .right-content {
+
+    width: 45%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: justify;
+
+}
+
+
+
+   
+
+   
+
