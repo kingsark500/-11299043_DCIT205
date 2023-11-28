@@ -23,62 +23,36 @@ copied repository on github.
 
 The first page I built was the home page
 
-![Alt text](homepage-1.png)
+which will contain an introduction about the computer science department and its mission statement. It also contains links to other pages such as "About Us", "Contacts", "Research" and more.
 
-![Alt text](<Screenshot (17)-1.png>)
-
-![Alt text](<Screenshot (19).png>)
+c:\Users\maxwell\Desktop\-11299043_DCIT205\images\Screenshot (17).png
 
 
 **ENTRY REQUIREMENTS PAGE**
 
-![Alt text](<Screenshot (20).png>)
-
- 
-![Alt text](<Screenshot (21).png>)
-
-![Alt text](<Screenshot (22).png>)
 
 
 **CONTACTS PAGE**
 
-![Alt text](<Screenshot (23).png>)
 
 **ABOUT PAGE**
-![Alt text](<Screenshot (25).png>)
 
-![Alt text](<Screenshot (24).png>)
 
 **RESEARCH PAGE**
 
-![Alt text](<Screenshot (26).png>)
 
-![Alt text](<Screenshot (27).png>)
 
 **UNDERGRADUATE PROGRAMS PAGE**
-![Alt text](<Screenshot (28).png>)
-
-![Alt text](<Screenshot (29).png>)
-
-![Alt text](<Screenshot (30).png>)
 
 **GRADUATE PHD PROGRAMS PAGE**
 
-![Alt text](<Screenshot (31).png>)
 
-![Alt text](<Screenshot (32).png>)
-
-![Alt text](<Screenshot (33).png>)
 **FACULTY PAGE**
 
 
 
 **STUDENT COMPLAINT FORM PAGE**
 
-![Alt text](<Screenshot (34).png>)
-
-![Alt text](<Screenshot (35).png>)
 
 **SUBMISSION OF STUDENT COMPLAINT FORM PAGE**
 
-![Alt text](<Screenshot (36).png>)
