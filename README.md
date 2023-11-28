@@ -25,7 +25,6 @@ The first page I built was the home page
 
 which will contain an introduction about the computer science department and its mission statement. It also contains links to other pages such as "About Us", "Contacts", "Research" and more.
 
-c:\Users\maxwell\Desktop\-11299043_DCIT205\images\Screenshot (17).png
 
 
 **ENTRY REQUIREMENTS PAGE**
