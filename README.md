@@ -57,3 +57,58 @@ which will contain an introduction about the computer science department and its
 
 
 ![Alt text](<images/Screenshot (17)-1.png>)
+
+![Alt text](<images/Screenshot (19).png>)
+
+
+![Alt text](<images/Screenshot (20).png>)
+
+
+![Alt text](<images/Screenshot (21).png>)
+
+
+![Alt text](<images/Screenshot (22).png>)
+
+
+![Alt text](<images/Screenshot (23).png>)
+
+
+![Alt text](<images/Screenshot (24).png>)
+
+
+![Alt text](<images/Screenshot (25).png>)
+
+
+![Alt text](<images/Screenshot (26).png>)
+
+
+![Alt text](<images/Screenshot (27).png>)
+
+
+![Alt text](<images/Screenshot (28).png>)
+
+
+![Alt text](<images/Screenshot (29).png>)
+
+
+![Alt text](<images/Screenshot (30).png>)
+
+
+![Alt text](<images/Screenshot (31).png>)
+
+
+![Alt text](<images/Screenshot (32).png>)
+
+
+![Alt text](<images/Screenshot (33).png>)
+
+
+![Alt text](<images/Screenshot (34).png>)
+
+
+
+![Alt text](<images/Screenshot (35).png>)
+
+
+
+![Alt text](<images/Screenshot (36).png>)
